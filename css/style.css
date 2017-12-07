@@ -283,3 +283,7 @@ header{
     height: 100%;
     
 }
+
+.testimonial-slider li{
+    padding: 0 0 90px;
+}
