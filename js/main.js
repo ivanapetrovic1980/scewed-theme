@@ -19,6 +19,9 @@ $(document).ready(function () {
     });
 
 
+    if($('.bx-slider').length > 0){
+         $('.lead-slider').bxSlider();
+    }
 
 
 
